@@ -1,7 +1,7 @@
 function componentSidebar() {
   const currentDir = window.location.origin;
 
-	return ` <div id="sidebar">
+  return ` <div id="sidebar">
 				<div class="inner">
 				<nav id="menu">
 					<header class="major">
@@ -110,7 +110,7 @@ function componentSidebar() {
 
 						<footer id="footer">
 					<p class="copyright">&copy; Всі права захищені. <br><br> <span
-							class="footer-text">web-developer.in.ua</span> <br><br> <a
+							class="footer-text">web-dev.in.ua</span> <br><br> <a
 							href="https://www.linkedin.com/in/dmytrii-beresten" class="icon brands fa-linkedin" target="_blank">
 							dmitryberesten</a>.
 				        </footer>
@@ -149,21 +149,21 @@ bannerContainer.innerHTML = componentSidebar();
 //     </a>
 //   </article>;
 
-			// 			<article>
-            //   <a
-            //     href="${currentDir}/assets/articles/node/node-company/node-company.html"
-            //     class="image"
-            //   >
-            //     <img
-            //       src="${currentDir}/assets/articles/node/node-company/node-company.webp"
-            //       alt=""
-            //     />
-            //   </a>
-            //   <a href="${currentDir}/assets/articles/node/node-company/node-company.html">
-            //     <h3>Чому топові компанії використовують Node.js?</h3>
-            //   </a>
-            //   <p>
-            //     Netflix, PayPal, Uber, LinkedIn — лише маленька частина
-            //     компаній, що обрали середовище Node.js для своїх продуктів.
-            //   </p>
-            // </article>;
+// 			<article>
+//   <a
+//     href="${currentDir}/assets/articles/node/node-company/node-company.html"
+//     class="image"
+//   >
+//     <img
+//       src="${currentDir}/assets/articles/node/node-company/node-company.webp"
+//       alt=""
+//     />
+//   </a>
+//   <a href="${currentDir}/assets/articles/node/node-company/node-company.html">
+//     <h3>Чому топові компанії використовують Node.js?</h3>
+//   </a>
+//   <p>
+//     Netflix, PayPal, Uber, LinkedIn — лише маленька частина
+//     компаній, що обрали середовище Node.js для своїх продуктів.
+//   </p>
+// </article>;

@@ -1,8 +1,8 @@
 const chats = [
   {
     logo: "../../images/chats/0.jpg",
-    name: "web-developer.in.ua CПІЛЬНОТА",
-    link: "https://t.me/web_developer_in_ua",
+    name: "web-dev.in.ua CПІЛЬНОТА",
+    link: "https://t.me/web_dev_in_ua",
   },
   {
     logo: "../../images/chats/1.jpg",

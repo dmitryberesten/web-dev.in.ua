@@ -81,7 +81,7 @@ function generateCertificate(userName, score, totalQuestions) {
       },
       { text: `Date: ${currentDate}`, style: "subheader" },
       {
-        text: "Testing on education platform web-developer.in.ua",
+        text: "Testing on education platform web-dev.in.ua",
         style: "footer",
       },
     ],
