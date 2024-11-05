@@ -1,7 +1,11 @@
 function componentHeader() {
   const currentDir = window.location.origin;
 
-  return `  				<header id="header">
+	return `  				
+  
+  <a href="https://www.web-study.in.ua" target="_blank" class="top-news">Індивідуальні заняття з ментором на <span
+		 class="top_news-link">web-study.in.ua</span> 👈</a>
+  <header id="header">
 					<a href="https://www.instagram.com/dmitry_beresten" class="logo" target="_blank"><strong>Розробив</strong> Дмитро Берестень
 						</a>
 					<ul class="icons">

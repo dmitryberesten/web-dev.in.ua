@@ -12,7 +12,8 @@ function componentSidebar() {
 						</li>
 						<li class="menu-item__btn"><a href="${currentDir}/articles.html"><i class="fa-regular fa-file-lines"></i>
 								Статті</a></li>
-						<li class="menu-item__btn"><a href="${currentDir}/lessons.html"><i class="fa-solid fa-film"></i> Уроки</a>
+						
+							<li class="menu-item__btn"><a href="${currentDir}/lessons.html"><i class="fa-solid fa-film"></i> Уроки</a>
 						</li>
 						<li class="menu-item__btn"><a href="${currentDir}/assets/figma/figma.html"><i class="icon fa-solid brands fa-figma"></i> Макети</a>
 						</li>
@@ -42,6 +43,8 @@ function componentSidebar() {
 						<li class="menu-item__btn"><a href="${currentDir}/assets/articles/bloggers/bloggers.html"><i
 									class="fa-brands fa-youtube"></i>
 								Українські ІТ-ютубери</a></li>
+								<li class="menu-item__btn"><a href="https://www.web-study.in.ua" target="_blank" ><i class="fa-solid fa-globe"></i> Заняття з ментором</a>
+						</li>
 								<li class="menu-item__btn"><a href="${currentDir}/chats.html"><i
 									class="fa-brands fa-telegram"></i>
 								ІТ-чати</a></li>
@@ -75,15 +78,15 @@ function componentSidebar() {
 							<p>Цей фреймворк по праву можна назвати “швейцарським годинником” у світі JavaScript, адже його потужність та спектр можливостей майже не мають меж.</p>
 						</article>
 						<article>
-							<a href="https://solid.com.ua/?utm_source=ads_site&utm_medium=referral&utm_campaign=web_dev&utm_content=site"
-								class="image" target="_blank"><img src="${currentDir}/assets/articles/blog/schooll/3.jpg"
+							<a href="https://www.web-study.in.ua"
+								class="image" target="_blank"><img src="${currentDir}/assets/articles/blog/schooll/mentor.jpg"
 									alt="" target="_blank" /></a>
-							<a href="https://solid.com.ua/?utm_source=ads_site&utm_medium=referral&utm_campaign=web_dev&utm_content=site" target="_blank">
-								<h3>Забудь про страх говорити англійською в IT-сфері</h3>
+							<a href="https://www.web-study.in.ua" target="_blank">
+								<h3>Онлайн заняття з ментором</h3>
 							</a>
-							<p>Курси англійської мови від Solid ES допоможуть тобі презентувати свою роботу, спілкуватися з колегами та замовниками, проходити співбесіди англійською та розуміти технічну документацію.</p>
+							<p>Індивідуальні онлайн заняття з викладачем / ментором. Розкрийте свій потенціал, розпочніть неймовірну подорож по навчанню.</p>
 							 <a
-       href="https://solid.com.ua/?utm_source=ads_site&utm_medium=referral&utm_campaign=web_dev&utm_content=site"
+       href="https://www.web-study.in.ua"
        class="button big"
        target="_blank"
      >
